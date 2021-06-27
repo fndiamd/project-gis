@@ -17,7 +17,7 @@ class PlaceSeeder extends Seeder
         $places = [
             [
                 'name' => 'SANTIKA',
-                'price' => 0,
+                'price' => 725000,
                 'address' => 'Jalan Letjen Sutoyo Nomor 79 Malang 65141',
                 'longitude' => '112.63694223137537',
                 'latitude' => '-7.958046135052048',
@@ -30,7 +30,7 @@ class PlaceSeeder extends Seeder
             ],
             [
                 'name' => 'TUGU PARK',
-                'price' => 0,
+                'price' => 913000,
                 'address' => 'Jalan Tugu Nomor 3 Malang',
                 'longitude' => '112.63340571205534',
                 'latitude' => '-7.977226719199643',
@@ -43,7 +43,7 @@ class PlaceSeeder extends Seeder
             ],
             [
                 'name' => 'GAJAHMADA GRAHA',
-                'price' => 0,
+                'price' => 370000,
                 'address' => 'Jalan Dr. Cipto 17 Malang',
                 'longitude' => '112.63597485438537',
                 'latitude' => '-7.968741218544407',
@@ -56,7 +56,7 @@ class PlaceSeeder extends Seeder
             ],
             [
                 'name' => 'GRAHA CAKRA',
-                'price' => 0,
+                'price' => 350000,
                 'address' => 'Jalan Cerme 16 Malang',
                 'longitude' => '112.6252136120554',
                 'latitude' => '-7.969759064083942',
@@ -69,7 +69,7 @@ class PlaceSeeder extends Seeder
             ],
             [
                 'name' => 'GRAND PALACE',
-                'price' => 0,
+                'price' => 380000,
                 'address' => 'Jalan Ade Irma Suryani 23 Malang',
                 'longitude' => '112.62927695438546',
                 'latitude' => '-7.984630497822733',
@@ -82,7 +82,7 @@ class PlaceSeeder extends Seeder
             ],
             [
                 'name' => 'KARTIKA GRAHA',
-                'price' => 0,
+                'price' => 300000,
                 'address' => 'Jalan Jakgung Suprapto 17 Malang',
                 'longitude' => '112.63022226791806',
                 'latitude' => '-7.973133241629165',
@@ -95,7 +95,7 @@ class PlaceSeeder extends Seeder
             ],
             [
                 'name' => 'REGENT\'S PARK',
-                'price' => 0,
+                'price' => 310000,
                 'address' => 'Jalan Jakgung Suprapto 12 - 17 Malang',
                 'longitude' => '112.63277429671541',
                 'latitude' => '-7.969588389181105',
@@ -108,7 +108,7 @@ class PlaceSeeder extends Seeder
             ],
             [
                 'name' => 'MONTANA I',
-                'price' => 0,
+                'price' => 250000,
                 'address' => 'Jalan Kahuripan 9 Malang',
                 'longitude' => '112.63286535254063',
                 'latitude' => '-7.9768477685377075',
@@ -121,7 +121,7 @@ class PlaceSeeder extends Seeder
             ],
             [
                 'name' => 'RICHE',
-                'price' => 0,
+                'price' => 150000,
                 'address' => 'Jalan Basuki Rachmad 1',
                 'longitude' => '112.63029434089049',
                 'latitude' => '-7.981120771455829',
@@ -134,7 +134,7 @@ class PlaceSeeder extends Seeder
             ],
             [
                 'name' => 'SPLENDID INN',
-                'price' => 0,
+                'price' => 210000,
                 'address' => 'Jalan Majapahit 2 - 4 Malang',
                 'longitude' => '112.63320599487058',
                 'latitude' => '-7.97737509402992',
@@ -147,7 +147,7 @@ class PlaceSeeder extends Seeder
             ],
             [
                 'name' => 'ALOHA',
-                'price' => 0,
+                'price' => 150000,
                 'address' => 'Jalan Gajah Mada 7',
                 'longitude' => '112.63517000346297',
                 'latitude' => '-7.978331019400331',
@@ -160,7 +160,7 @@ class PlaceSeeder extends Seeder
             ],
             [
                 'name' => 'ARJUNO',
-                'price' => 0,
+                'price' => 120000,
                 'address' => 'Jalan B. S. Riadi 122 Malang',
                 'longitude' => '112.635290599092',
                 'latitude' => '-7.978507961236281',
@@ -173,7 +173,7 @@ class PlaceSeeder extends Seeder
             ],
             [
                 'name' => 'ARMI',
-                'price' => 0,
+                'price' => 130000,
                 'address' => 'Jalan Kaliurang 63 Malang',
                 'longitude' => '112.62868674091241',
                 'latitude' => '-7.966171178420136',
@@ -186,7 +186,7 @@ class PlaceSeeder extends Seeder
             ],
             [
                 'name' => 'BAHAGIA',
-                'price' => 0,
+                'price' => 125000,
                 'address' => 'Jalan Letjen S Parman 45 Malang',
                 'longitude' => '112.6308821967153',
                 'latitude' => '-7.962210786191414',
@@ -199,7 +199,7 @@ class PlaceSeeder extends Seeder
             ],
             [
                 'name' => 'BINTANG',
-                'price' => 0,
+                'price' => 85000,
                 'address' => 'Jalan Hamid Rusdi Nomor 97 Malang',
                 'longitude' => '112.6383092364685',
                 'latitude' => '-7.952512733035298',
@@ -212,7 +212,7 @@ class PlaceSeeder extends Seeder
             ],
             [
                 'name' => 'CAMELIA',
-                'price' => 0,
+                'price' => 75000,
                 'address' => 'Jalan Dr. Cipto 24 Malang',
                 'longitude' => '112.64444288281982',
                 'latitude' => '-7.971758449848067',
@@ -225,7 +225,7 @@ class PlaceSeeder extends Seeder
             ],
             [
                 'name' => 'EMMA',
-                'price' => 0,
+                'price' => 65000,
                 'address' => 'Jalan Trunojoyo 21 Malang',
                 'longitude' => '112.63713020173836',
                 'latitude' => '-7.969357393294634',
@@ -238,7 +238,7 @@ class PlaceSeeder extends Seeder
             ],
             [
                 'name' => 'EMMA MUSTIKA SARI',
-                'price' => 0,
+                'price' => 125000,
                 'address' => 'Jalan Laks. Martadinata 18-24 Malang',
                 'longitude' => '112.63653053904537',
                 'latitude' => '-7.974643492637451',
@@ -251,7 +251,7 @@ class PlaceSeeder extends Seeder
             ],
             [
                 'name' => 'FLAMBOYAN',
-                'price' => 0,
+                'price' => 50000,
                 'address' => 'Jalan Letjend. S. Parman Malang',
                 'longitude' => '112.63548584089061',
                 'latitude' => '-7.987253024936747',
@@ -264,7 +264,7 @@ class PlaceSeeder extends Seeder
             ],
             [
                 'name' => 'GRIYO ASRI',
-                'price' => 0,
+                'price' => 55000,
                 'address' => 'Jalan Mayjend. Panjaitan Malang',
                 'longitude' => '112.63888836788027',
                 'latitude' => '-7.953744453710778',
@@ -277,7 +277,7 @@ class PlaceSeeder extends Seeder
             ],
             [
                 'name' => 'GRIYO MARGOSUKO',
-                'price' => 0,
+                'price' => 60000,
                 'address' => 'Jalan KH. Ahmad Dahlan Malang',
                 'longitude' => '112.62106210227796',
                 'latitude' => '-7.955232811983896',
@@ -290,7 +290,7 @@ class PlaceSeeder extends Seeder
             ],
             [
                 'name' => 'H.S. KASABRA',
-                'price' => 0,
+                'price' => 115000,
                 'address' => 'Jalan Gresik Nomor 2 Malang',
                 'longitude' => '112.63458184200097',
                 'latitude' => '-7.9845318642646195',
@@ -303,7 +303,7 @@ class PlaceSeeder extends Seeder
             ],
             [
                 'name' => 'HELIOS',
-                'price' => 0,
+                'price' => 145000,
                 'address' => 'Jalan Pattimura 37 Malang',
                 'longitude' => '112.61746166972523',
                 'latitude' => '-7.966042786974809',
@@ -316,7 +316,7 @@ class PlaceSeeder extends Seeder
             ],
             [
                 'name' => 'HOME STAY TRISNA ASIH',
-                'price' => 0,
+                'price' => 55000,
                 'address' => 'Jalan Diponegoro 19 Malang',
                 'longitude' => '112.63476686972537',
                 'latitude' => '-7.972949416880487',
@@ -329,7 +329,7 @@ class PlaceSeeder extends Seeder
             ],
             [
                 'name' => 'KAHURIPAN',
-                'price' => 0,
+                'price' => 65000,
                 'address' => 'Jalan Kahuripan 11 - 15 Malang',
                 'longitude' => '112.63399965438532',
                 'latitude' => '-7.9685240137544655',
@@ -342,7 +342,7 @@ class PlaceSeeder extends Seeder
             ],
             [
                 'name' => 'KALPATARU',
-                'price' => 0,
+                'price' => 125000,
                 'address' => 'Jalan Kalpataru 41 Malang',
                 'longitude' => '112.63034561205546',
                 'latitude' => '-7.97650146857221',
@@ -355,7 +355,7 @@ class PlaceSeeder extends Seeder
             ],
             [
                 'name' => 'KARTIKA KUSUMA',
-                'price' => 0,
+                'price' => 110000,
                 'address' => 'Jalan Kahuripan 12 Malang',
                 'longitude' => '112.62992247664343',
                 'latitude' => '-7.950288624932669',
@@ -368,7 +368,7 @@ class PlaceSeeder extends Seeder
             ],
             [
                 'name' => 'MALANG',
-                'price' => 0,
+                'price' => 135000,
                 'address' => 'Jalan Z. Arifin 85 Malang',
                 'longitude' => '112.63283959487056',
                 'latitude' => '-7.976408118585296',
@@ -381,7 +381,7 @@ class PlaceSeeder extends Seeder
             ],
             [
                 'name' => 'MALINDA',
-                'price' => 0,
+                'price' => 145500,
                 'address' => 'Jalan Zainul Arifin 37 - 39 Malang',
                 'longitude' => '112.63377092555055',
                 'latitude' => '-7.984963873186549',
@@ -394,7 +394,7 @@ class PlaceSeeder extends Seeder
             ],
             [
                 'name' => 'MANDALA PURI',
-                'price' => 0,
+                'price' => 115500,
                 'address' => 'Jalan PB. Sudirman 81 Malang',
                 'longitude' => '112.63427717953068',
                 'latitude' => '-7.983072646170684',
@@ -407,7 +407,7 @@ class PlaceSeeder extends Seeder
             ],
             [
                 'name' => 'MANSION',
-                'price' => 0,
+                'price' => 112000,
                 'address' => 'Jalan Martadinata 9 Malang',
                 'longitude' => '112.63822081021048',
                 'latitude' => '-7.971964041542731',
@@ -420,7 +420,7 @@ class PlaceSeeder extends Seeder
             ],
             [
                 'name' => 'MEGAWATI',
-                'price' => 0,
+                'price' => 75000,
                 'address' => 'Jalan Pang. Sudirman 99 Malang',
                 'longitude' => '112.63543172555065',
                 'latitude' => '-7.987924373733072',
@@ -433,7 +433,7 @@ class PlaceSeeder extends Seeder
             ],
             [
                 'name' => 'MENARA',
-                'price' => 0,
+                'price' => 69000,
                 'address' => 'Jalan Pajajaran 5 Malang',
                 'longitude' => '112.63818981021048',
                 'latitude' => '-7.969650390879563',
@@ -446,7 +446,7 @@ class PlaceSeeder extends Seeder
             ],
             [
                 'name' => 'MONTANA II',
-                'price' => 0,
+                'price' => 76000,
                 'address' => 'Jalan Candi Panggung 2 Malang',
                 'longitude' => '112.63489911021038',
                 'latitude' => '-7.974553217351348',
@@ -459,7 +459,7 @@ class PlaceSeeder extends Seeder
             ],
             [
                 'name' => 'MUTIARA',
-                'price' => 0,
+                'price' => 86000,
                 'address' => 'Jalan Jagung Suprapto',
                 'longitude' => '112.62360255254012',
                 'latitude' => '-7.938350708026578',
@@ -472,7 +472,7 @@ class PlaceSeeder extends Seeder
             ],
             [
                 'name' => 'NARA',
-                'price' => 0,
+                'price' => 90000,
                 'address' => 'Jalan Raya Arjosari Malang',
                 'longitude' => '112.63233629856035',
                 'latitude' => '-7.969870864156422',
@@ -485,7 +485,7 @@ class PlaceSeeder extends Seeder
             ],
             [
                 'name' => 'NUGRAHA',
-                'price' => 0,
+                'price' => 99500,
                 'address' => 'Jalan Panji Suroso 16 Malang',
                 'longitude' => '112.64997273484508',
                 'latitude' => '-7.943451261215924',
@@ -498,7 +498,7 @@ class PlaceSeeder extends Seeder
             ],
             [
                 'name' => 'PAJAJARAN PARK',
-                'price' => 0,
+                'price' => 77000,
                 'address' => 'Jalan Letjend. Sutoyo 178 Malang',
                 'longitude' => '112.64954853904499',
                 'latitude' => '-7.935494798466228',
@@ -511,7 +511,7 @@ class PlaceSeeder extends Seeder
             ],
             [
                 'name' => 'PALEM I',
-                'price' => 0,
+                'price' => 86000,
                 'address' => 'Jalan Hasanuddin 10 Malang',
                 'longitude' => '112.63852082739513',
                 'latitude' => '-7.955606778206026',
@@ -524,7 +524,7 @@ class PlaceSeeder extends Seeder
             ],
             [
                 'name' => 'PALEM II',
-                'price' => 0,
+                'price' => 85000,
                 'address' => 'Jalan MH. Thamrin 15 Malang',
                 'longitude' => '112.63125023904544',
                 'latitude' => '-7.968754990508297',
@@ -537,7 +537,7 @@ class PlaceSeeder extends Seeder
             ],
             [
                 'name' => 'PELANGI I',
-                'price' => 0,
+                'price' => 135000,
                 'address' => 'Jalan Merdeka Selatan 3 Malang',
                 'longitude' => '112.6357331408904',
                 'latitude' => '-7.970959639005294',
@@ -550,7 +550,7 @@ class PlaceSeeder extends Seeder
             ],
             [
                 'name' => 'PELANGI II',
-                'price' => 0,
+                'price' => 135000,
                 'address' => 'Jalan Gajayana Malang',
                 'longitude' => '112.62979906788055',
                 'latitude' => '-7.983336672894825',
@@ -563,7 +563,7 @@ class PlaceSeeder extends Seeder
             ],
             [
                 'name' => 'PENGINAPAN TLOGOMAS',
-                'price' => 0,
+                'price' => 144000,
                 'address' => 'Jalan Tlogomas Malang',
                 'longitude' => '112.60822571205513',
                 'latitude' => '-7.946043345459653',
@@ -576,7 +576,7 @@ class PlaceSeeder extends Seeder
             ],
             [
                 'name' => 'PINUS',
-                'price' => 0,
+                'price' => 138000,
                 'address' => 'Jalan S.P. Sudarmo Malang',
                 'longitude' => '112.59806126989895',
                 'latitude' => '-7.923295413281992',
@@ -589,7 +589,7 @@ class PlaceSeeder extends Seeder
             ],
             [
                 'name' => 'PUSPASARI',
-                'price' => 0,
+                'price' => 79000,
                 'address' => 'Jalan Kol. Sugiono I/9 Malang',
                 'longitude' => '112.64621291205503',
                 'latitude' => '-7.947359372229809',
@@ -602,7 +602,7 @@ class PlaceSeeder extends Seeder
             ],
             [
                 'name' => 'ROYAL INN',
-                'price' => 0,
+                'price' => 150000,
                 'address' => 'Jalan Tenaga Baru 1/5 Malang',
                 'longitude' => '112.63002788137574',
                 'latitude' => '-8.003903559215555',
@@ -615,7 +615,7 @@ class PlaceSeeder extends Seeder
             ],
             [
                 'name' => 'SAMPURNA ASRI',
-                'price' => 0,
+                'price' => 147500,
                 'address' => 'Jalan Kol. Sugiono 116 Malang',
                 'longitude' => '112.64922742370526',
                 'latitude' => '-7.9456426034468',
@@ -628,7 +628,7 @@ class PlaceSeeder extends Seeder
             ],
             [
                 'name' => 'SANTOSO',
-                'price' => 0,
+                'price' => 62000,
                 'address' => 'Jalan K.H. Agus Salim 24 Malang',
                 'longitude' => '112.63050308137593',
                 'latitude' => '-8.002870085596753',
@@ -641,7 +641,7 @@ class PlaceSeeder extends Seeder
             ],
             [
                 'name' => 'SERAYU',
-                'price' => 0,
+                'price' => 57000,
                 'address' => 'Jalan Serayu 3 Malang',
                 'longitude' => '112.63257806972545',
                 'latitude' => '-7.984024647176424',
@@ -654,7 +654,7 @@ class PlaceSeeder extends Seeder
             ],
             [
                 'name' => 'SETIA BUDI',
-                'price' => 0,
+                'price' => 94000,
                 'address' => 'Jalan Pattimura 71 A Malang',
                 'longitude' => '112.6400317255503',
                 'latitude' => '-7.962178857573569',
@@ -667,7 +667,7 @@ class PlaceSeeder extends Seeder
             ],
             [
                 'name' => 'SIMPANG TIGA',
-                'price' => 0,
+                'price' => 122000,
                 'address' => 'Jalan Margono 56 Malang',
                 'longitude' => '112.63733846972538',
                 'latitude' => '-7.973049291810316',
@@ -680,7 +680,7 @@ class PlaceSeeder extends Seeder
             ],
             [
                 'name' => 'SRIWIJAYA',
-                'price' => 0,
+                'price' => 100000,
                 'address' => 'Jalan A. Munandar 43 Malang',
                 'longitude' => '112.62347475438547',
                 'latitude' => '-7.986121426040558',
@@ -693,7 +693,7 @@ class PlaceSeeder extends Seeder
             ],
             [
                 'name' => 'TIRTO',
-                'price' => 0,
+                'price' => 105000,
                 'address' => 'Jalan Simp. Panji Suroso Kav 133 Malang,',
                 'longitude' => '112.63419908322045',
                 'latitude' => '-7.981035371043797',
@@ -706,7 +706,7 @@ class PlaceSeeder extends Seeder
             ],
             [
                 'name' => 'TOSARI',
-                'price' => 0,
+                'price' => 110000,
                 'address' => 'Jalan KH. A. Dahlan 31 Malang',
                 'longitude' => '112.65147835438498',
                 'latitude' => '-7.9326446494016984',
@@ -719,7 +719,7 @@ class PlaceSeeder extends Seeder
             ],
             [
                 'name' => 'TRIO INDAH II',
-                'price' => 0,
+                'price' => 112000,
                 'address' => 'Jalan JA. Suprapto Malang',
                 'longitude' => '112.63523623720073',
                 'latitude' => '-7.984423323956742',
@@ -732,7 +732,7 @@ class PlaceSeeder extends Seeder
             ],
             [
                 'name' => 'WILIS INDAH',
-                'price' => 0,
+                'price' => 88000,
                 'address' => 'Jalan Dr. Wahidin 40 Malang',
                 'longitude' => '112.63527915254066',
                 'latitude' => '-7.984572071537111',
@@ -745,7 +745,7 @@ class PlaceSeeder extends Seeder
             ],
             [
                 'name' => 'WINDU KENCANA',
-                'price' => 0,
+                'price' => 145000,
                 'address' => 'Jalan Kol. Sugiono 46 Malang',
                 'longitude' => '112.62955614089043',
                 'latitude' => '-7.974282042276059',
