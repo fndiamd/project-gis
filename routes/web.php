@@ -5,6 +5,7 @@ use Illuminate\Support\Facades\Auth;
 
 
 use App\Http\Controllers\Dashboard\HomeController as DashboardHome;
+use App\Http\Controllers\Dashboard\PlaceController as DashboardPlace;
 /*
 |--------------------------------------------------------------------------
 | Web Routes
@@ -22,6 +23,10 @@ Route::middleware('auth')->name('dashboard.')->prefix('dashboard')->group(functi
     Route::get('/', [DashboardHome::class, 'index'])->name('index');
 });
 
+Route::name('place.')->prefix('place')->group(function(){
+    Route::get('map-data', [DashboardPlace::class, 'mapData'])->name('map');
+});
+
 Route::get('/', function () {
-    return view('welcome');
+    return view('front.index');
 });
