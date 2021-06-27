@@ -52,12 +52,12 @@
             </div>
         </nav>
 
-        <main class="py-4 container">
+        <main class="py-4 container-fluid">
             @yield('content')
         </main>
         
         <footer class="text-center fixed-bottom mb-2">
-            The source code of this project is available on <a href="https://github.com/nafiesl/laravel-leaflet-example" target="_blank">github</a>.
+            The source code of this project is available on <a href="https://github.com/fndiamd/project-gis" target="_blank">github</a>.
         </footer>
     </div>
     <!-- Scripts -->

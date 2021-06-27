@@ -6,6 +6,8 @@ use Illuminate\Support\Facades\Auth;
 
 use App\Http\Controllers\Dashboard\HomeController as DashboardHome;
 use App\Http\Controllers\Dashboard\PlaceController as DashboardPlace;
+
+use App\Http\Controllers\Front\HomeController;
 /*
 |--------------------------------------------------------------------------
 | Web Routes
@@ -27,6 +29,4 @@ Route::name('place.')->prefix('place')->group(function(){
     Route::get('map-data', [DashboardPlace::class, 'mapData'])->name('map');
 });
 
-Route::get('/', function () {
-    return view('front.index');
-});
+Route::get('/', [HomeController::class, 'index'])->name('home');
