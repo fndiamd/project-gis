@@ -605,7 +605,7 @@ class PlaceSeeder extends Seeder
                 'price' => 150000,
                 'address' => 'Jalan Tenaga Baru 1/5 Malang',
                 'longitude' => '112.63002788137574',
-                'latitude' => '-8.003903559215555,',
+                'latitude' => '-8.003903559215555',
                 'operational_start' => '08:00:00',
                 'operational_end' => '22:00:00',
                 'telephone' => '',
